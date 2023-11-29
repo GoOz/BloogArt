@@ -1,8 +1,9 @@
 const path = require("path");
 const ExifReader = require("exifreader");
 const eleventyImage = require("@11ty/eleventy-img");
+const svgContents = require("eleventy-plugin-svg-contents");
 
-module.exports = eleventyConfig => {
+module.exports = (eleventyConfig) => {
 	function relativeToInputPath(inputPath, relativeFilePath) {
 		let split = inputPath.split("/");
 		split.pop();
@@ -12,39 +13,42 @@ module.exports = eleventyConfig => {
 
 	// Eleventy Image shortcode
 	// https://www.11ty.dev/docs/plugins/image/
-	eleventyConfig.addAsyncShortcode("image", async function imageShortcode(src, alt, sizes) {
-		// Full list of formats here: https://www.11ty.dev/docs/plugins/image/#output-formats
-		// Warning: Avif can be resource-intensive so take care!
-		let formats = ["avif", "webp", "auto"];
-		let file = relativeToInputPath(this.page.inputPath, src);
-		let metadata = await eleventyImage(file, {
-			widths: [640, 812, 1200, 1400, "auto"],
-			formats,
-			sharpOptions: {
-				animated: true
-			},
+	eleventyConfig.addAsyncShortcode(
+		"image",
+		async function imageShortcode(src, alt, sizes) {
+			// Full list of formats here: https://www.11ty.dev/docs/plugins/image/#output-formats
+			// Warning: Avif can be resource-intensive so take care!
+			let formats = ["avif", "webp", "auto"];
+			let file = relativeToInputPath(this.page.inputPath, src);
+			let metadata = await eleventyImage(file, {
+				widths: [640, 812, 1200, 1400, "auto"],
+				formats,
+				sharpOptions: {
+					animated: true,
+				},
+				outputDir: path.join(eleventyConfig.dir.output, "img"),
+			});
+
+			let imageAttributes = {
+				alt,
+				sizes: sizes || "100vw",
+				loading: "lazy",
+				decoding: "async",
+			};
+			return eleventyImage.generateHTML(metadata, imageAttributes);
+		}
+	);
+
+	// OG Featured image
+	eleventyConfig.addAsyncShortcode("ogPhoto", async function (src, baseUrl) {
+		let imagedata = await eleventyImage(src, {
+			widths: [600],
+			formats: ["jpeg"],
 			outputDir: path.join(eleventyConfig.dir.output, "img"),
 		});
 
-		let imageAttributes = {
-			alt,
-			sizes: sizes || "100vw",
-			loading: "lazy",
-			decoding: "async",
-		};
-		return eleventyImage.generateHTML(metadata, imageAttributes);
-	});
-
-	// OG Featured image
-	eleventyConfig.addAsyncShortcode("ogPhoto", async function(src) {
-		let metadata = await eleventyImage(src, {
-			widths: [600],
-			formats: ["jpeg"],
-			outputDir: path.join(eleventyConfig.dir.output, "img")
-		});
-
-		let data = metadata.jpeg[metadata.jpeg.length - 1];
-		return `<meta property="og:image" content="${data.url}">`;
+		let data = imagedata.jpeg[imagedata.jpeg.length - 1];
+		return `<meta property="og:image" content="${baseUrl + data.url}">`;
 	});
 
 	// EXIF Data
@@ -68,4 +72,6 @@ module.exports = eleventyConfig => {
 			callback(null, extractedValues);
 		}
 	);
+
+	eleventyConfig.addPlugin(svgContents);
 };

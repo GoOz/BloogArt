@@ -1,7 +1,7 @@
 {
-  "name": "Niepce",
-  "version": "0.1.0",
-  "description": "11ty starter kit for a portfolio site",
+  "name": "BloOgArt",
+  "version": "1.0.0",
+  "description": "GoOz's personal portfolio",
   "scripts": {
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve --quiet",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/GoOz/Niepce.git"
+    "url": "git://github.com/GoOz/BloogArt.git"
   },
   "author": {
     "name": "GoOz",
@@ -22,15 +22,16 @@
     "node": ">=16"
   },
   "bugs": {
-    "url": "https://github.com/GoOz/Niepce/issues"
+    "url": "https://github.com/GoOz/bloogart/issues"
   },
-  "homepage": "https://github.com/GoOz/Niepce#readme",
+  "homepage": "https://github.com/GoOz/BloogArt#readme",
   "devDependencies": {
     "@11ty/eleventy": "2.0.1",
     "@11ty/eleventy-img": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-bundle": "^1.0.4",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "eleventy-plugin-svg-contents": "^0.7.0",
     "eleventy-plugin-svg-sprite": "^2.4.2",
     "exifreader": "^4.17.0",
     "luxon": "^3.2.1"

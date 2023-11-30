@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
 			items.forEach((item) => {
 				let image = item.querySelector("img");
 
-				image.onload = () => {
+				image = () => {
 					let ratio = image.width / image.height;
 					item.style.width = justifyScale * ratio + "px";
 					item.style.flexGrow = ratio;

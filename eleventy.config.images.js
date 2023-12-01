@@ -51,6 +51,18 @@ module.exports = (eleventyConfig) => {
 		return `<meta property="og:image" content="${baseUrl + data.url}">`;
 	});
 
+	// Feed image
+	eleventyConfig.addAsyncShortcode("feedPhoto", async function (src, alt, baseUrl) {
+		let imagedata = await eleventyImage(src, {
+			widths: [600],
+			formats: ["jpeg"],
+			outputDir: path.join(eleventyConfig.dir.output, "img"),
+		});
+
+		let data = imagedata.jpeg[imagedata.jpeg.length - 1];
+		return `<img src="${baseUrl + data.url}" alt="${alt}" />`;
+	});
+
 	// EXIF Data
 	eleventyConfig.addNunjucksAsyncFilter(
 		"getExifData",

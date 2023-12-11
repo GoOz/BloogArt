@@ -6,4 +6,4 @@ photo_alt: Wooden bridge in a dense forest
 tags: Landscape
 ---
 
-*Gueulards's canyon, France*
+_Gueulards's canyon, France_

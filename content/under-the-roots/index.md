@@ -6,4 +6,4 @@ photo_alt: Hole of light with roots hanging
 tags: Misc
 ---
 
-*Chaumont-sur-Loire, France*
+_Chaumont-sur-Loire, France_

@@ -6,4 +6,4 @@ photo_alt: Very large stones disposed as if it was an opened tomb.
 tags: Landscape
 ---
 
-*Brocéliande, France*
+_Brocéliande, France_

@@ -6,4 +6,4 @@ photo_alt: Close up of Wax Tailor's singer on stage
 tags: Concert
 ---
 
-*@ Fnac Indétendances 2007 festival*
+_@ Fnac Indétendances 2007 festival_

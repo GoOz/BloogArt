@@ -6,4 +6,4 @@ photo_alt: A dark hallway to go through
 tags: Street
 ---
 
-*Nyons, France*
+_Nyons, France_

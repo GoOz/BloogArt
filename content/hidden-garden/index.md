@@ -6,4 +6,4 @@ photo_alt: A nice garden in a medieval village
 tags: Landscape
 ---
 
-*Nyons, France*
+_Nyons, France_

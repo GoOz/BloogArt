@@ -6,4 +6,4 @@ photo_alt: A staircase to a house built within a medieval tower
 tags: Landscape
 ---
 
-*Nyons, France*
+_Nyons, France_

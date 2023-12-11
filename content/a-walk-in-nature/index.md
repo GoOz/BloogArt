@@ -6,4 +6,4 @@ photo_alt: A woman walking on a footpath in a forest
 tags: Landscape
 ---
 
-*Brocéliande, France*
+_Brocéliande, France_

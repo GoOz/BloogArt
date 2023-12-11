@@ -6,4 +6,4 @@ photo_alt: Old ruins where nature took over
 tags: Landscape
 ---
 
-*Allan's castle, France*
+_Allan's castle, France_

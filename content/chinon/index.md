@@ -6,4 +6,4 @@ photo_alt: View on the city of Chinon from it's castle
 tags: Landscape
 ---
 
-*City of Chinon, France*
+_City of Chinon, France_

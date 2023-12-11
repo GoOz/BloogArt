@@ -6,4 +6,4 @@ photo_alt: Picture of a lake next to a city
 tags: Landscape
 ---
 
-*Beaulieu-sur-Dordogne, France*
+_Beaulieu-sur-Dordogne, France_

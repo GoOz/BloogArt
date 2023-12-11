@@ -8,4 +8,4 @@ tags: Concert
 
 {% image "photo-2.jpg", "Very close up of Daphné singing", "(min-width: 50em) 90vw, 100vw" %}
 
-*@ Fnac Indétendances 2007 festival*
+_@ Fnac Indétendances 2007 festival_

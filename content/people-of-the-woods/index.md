@@ -6,4 +6,4 @@ photo_alt: Wooden sculptures of people in a wooden area
 tags: Misc
 ---
 
-*Chaumont-sur-Loire, France*
+_Chaumont-sur-Loire, France_

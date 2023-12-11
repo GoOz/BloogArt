@@ -5,5 +5,3 @@ photo: photo.jpg
 photo_alt: 3 people leaning on a fence, contemplating a large pond garden with massive trees around
 tags: Landscape
 ---
-
-

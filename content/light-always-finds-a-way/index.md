@@ -6,4 +6,4 @@ photo_alt: A brighter path beyond a passage between two big rocks
 tags: Landscape
 ---
 
-*Gueulards's canyon, France*
+_Gueulards's canyon, France_

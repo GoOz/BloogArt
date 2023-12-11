@@ -6,4 +6,4 @@ photo_alt: Enormous trees in the background and tiny flowers in the foreground
 tags: Landscape
 ---
 
-*Chaumont-sur-Loire, France*
+_Chaumont-sur-Loire, France_

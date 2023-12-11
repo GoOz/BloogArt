@@ -6,4 +6,4 @@ photo_alt: A water stream going through mountains
 tags: Landscape
 ---
 
-*Drôme, France*
+_Drôme, France_

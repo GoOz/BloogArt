@@ -6,4 +6,4 @@ photo_alt: Path through a canyon
 tags: Landscape
 ---
 
-*Gueulards's canyon, France*
+_Gueulards's canyon, France_

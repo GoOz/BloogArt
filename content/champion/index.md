@@ -6,4 +6,4 @@ photo_alt: Backlight of a Champion musician
 tags: Concert
 ---
 
-*@ Fnac Indétendances 2007 festival*
+_@ Fnac Indétendances 2007 festival_

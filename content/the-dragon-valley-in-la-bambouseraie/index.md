@@ -6,4 +6,4 @@ photo_alt: An asian inspired garden
 tags: Landscape
 ---
 
-*La Bambouseraie, France*
+_La Bambouseraie, France_

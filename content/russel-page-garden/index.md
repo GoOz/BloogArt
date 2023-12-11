@@ -6,4 +6,4 @@ photo_alt: Frame made of a metallic fish with a garden behind
 tags: Misc
 ---
 
-*Chenonceau castle, France*
+_Chenonceau castle, France_

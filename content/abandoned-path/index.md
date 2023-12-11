@@ -6,4 +6,4 @@ photo_alt: An old wooden path in a dense forest
 tags: Landscape
 ---
 
-*Brocéliande, France*
+_Brocéliande, France_

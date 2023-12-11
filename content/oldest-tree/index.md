@@ -6,4 +6,4 @@ photo_alt: A very old tall tree with a wooden footpath all around it.
 tags: Landscape
 ---
 
-*Brocéliande, France*
+_Brocéliande, France_

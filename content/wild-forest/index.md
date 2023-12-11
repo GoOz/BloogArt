@@ -6,4 +6,4 @@ photo_alt: An old forest, barely maintained with a lot of roots coming out of th
 tags: Landscape
 ---
 
-*Brocéliande, France*
+_Brocéliande, France_

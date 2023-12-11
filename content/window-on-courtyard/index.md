@@ -6,4 +6,4 @@ photo_alt: Small hole in a wall with a garden behind
 tags: Misc
 ---
 
-*Garden international festival, Chaumont-sur-Loire, France*
+_Garden international festival, Chaumont-sur-Loire, France_

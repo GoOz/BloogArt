@@ -6,4 +6,4 @@ photo_alt: A very old tree covered in moss
 tags: Landscape
 ---
 
-*Brocéliande, France*
+_Brocéliande, France_

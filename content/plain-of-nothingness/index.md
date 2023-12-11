@@ -6,4 +6,4 @@ photo_alt: A bright orange field with nothing around it.
 tags: Landscape
 ---
 
-*Brocéliande, France*
+_Brocéliande, France_

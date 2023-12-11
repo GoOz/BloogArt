@@ -6,4 +6,4 @@ photo_alt: Wild plains full of shrubs
 tags: Landscape
 ---
 
-*Brocéliande, France*
+_Brocéliande, France_

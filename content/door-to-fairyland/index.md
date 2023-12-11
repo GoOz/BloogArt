@@ -6,4 +6,4 @@ photo_alt: Frame of a door made of wood sticks in a forest
 tags: Landscape
 ---
 
-*Chaumont-sur-Loire, France*
+_Chaumont-sur-Loire, France_

@@ -6,4 +6,4 @@ photo_alt: A woman going through an arch in a medieval street
 tags: Street
 ---
 
-*Mirabel-aux-baronnies, France*
+_Mirabel-aux-baronnies, France_

@@ -6,4 +6,4 @@ photo_alt: Rowboat stuck vertically in the earth
 tags: Landscape
 ---
 
-*Chaumont-sur-Loire, France*
+_Chaumont-sur-Loire, France_

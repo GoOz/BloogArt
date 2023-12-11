@@ -10,4 +10,4 @@ tags: Concert
 
 {% image "photo-3.jpg", "Mell changing a cord on her guitar on stage", "(min-width: 50em) 90vw, 100vw" %}
 
-*@ Fnac Indétendances 2007 festival*
+_@ Fnac Indétendances 2007 festival_

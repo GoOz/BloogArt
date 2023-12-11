@@ -6,4 +6,4 @@ photo_alt: A forest easy to be lost in
 tags: Landscape
 ---
 
-*Gueulards's canyon, France*
+_Gueulards's canyon, France_

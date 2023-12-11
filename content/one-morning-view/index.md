@@ -6,4 +6,4 @@ photo_alt: View on a valley in the morning
 tags: Landscape
 ---
 
-*Plateau Des Mille Étangs, France*
+_Plateau Des Mille Étangs, France_

@@ -11,6 +11,10 @@
 		<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		{% if niepce.grid === 'masonry' or niepce.grid_tags === 'masonry' %}
+		<script src="/js/magic-grid.min.js" defer fetchpriority="high"></script>
+		{% endif %}
+		<script src="/js/script.js" defer fetchpriority="high"></script>
 
   	{# Opengraph #}
   	{% if home %}
@@ -109,9 +113,5 @@
 				{{ content | safe }}
 			</main>
 		</div>
-		{% if niepce.grid === 'masonry' or niepce.grid_tags === 'masonry' %}
-		<script src="/js/magic-grid.min.js"></script>
-		{% endif %}
-		<script src="/js/script.js"></script>
 	</body>
 </html>

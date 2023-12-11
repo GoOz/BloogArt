@@ -6,4 +6,4 @@ photo_alt: A ceiling with a hole inside a building
 tags: Misc
 ---
 
-*Fontevraud's Abbey, France*
+_Fontevraud's Abbey, France_

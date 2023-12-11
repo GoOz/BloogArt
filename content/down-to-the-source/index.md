@@ -6,4 +6,4 @@ photo_alt: A blue cascade in a canyon
 tags: Landscape
 ---
 
-*Druise's cascade*
+_Druise's cascade_

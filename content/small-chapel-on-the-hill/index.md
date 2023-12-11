@@ -6,4 +6,4 @@ photo_alt: A very small chapel at the top of hill
 tags: Landscape
 ---
 
-*Nyons, France*
+_Nyons, France_

@@ -6,4 +6,4 @@ photo_alt: View on a renaissance castle from its garden
 tags: Landscape
 ---
 
-*Chaumont-sur-Loire, France*
+_Chaumont-sur-Loire, France_

@@ -6,4 +6,4 @@ photo_alt: An abandoned church with the sun in place of the bell tower
 tags: Street
 ---
 
-*Notre-Dame-de-Ré abbey, Ré island, France*
+_Notre-Dame-de-Ré abbey, Ré island, France_

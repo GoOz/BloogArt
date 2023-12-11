@@ -6,4 +6,4 @@ photo_alt: View of some docks in Normandy
 tags: Landscape
 ---
 
-*Docks of Normandy*
+_Docks of Normandy_

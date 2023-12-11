@@ -6,4 +6,4 @@ photo_alt: Forest full of old wild trees
 tags: Landscape
 ---
 
-*Gueulards's canyon, France*
+_Gueulards's canyon, France_

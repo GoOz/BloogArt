@@ -6,4 +6,4 @@ photo_alt: Red water stream going through a forest
 tags: Landscape
 ---
 
-*Brocéliande, France*
+_Brocéliande, France_

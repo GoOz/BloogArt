@@ -6,4 +6,4 @@ photo_alt: Perle Lama on stage in a backlight
 tags: Concert
 ---
 
-*@ Fnac Indétendances 2007 festival*
+_@ Fnac Indétendances 2007 festival_

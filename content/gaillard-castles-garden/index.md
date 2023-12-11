@@ -6,4 +6,4 @@ photo_alt: A very flowery garden with a palm tree in the middle
 tags: Landscape
 ---
 
-*Gaillard castle, Amboise, France*
+_Gaillard castle, Amboise, France_

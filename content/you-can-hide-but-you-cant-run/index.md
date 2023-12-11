@@ -6,4 +6,4 @@ photo_alt: Catwalk going through the darkness of the Gorges du Fier
 tags: Landscape
 ---
 
-*Gorges of Fier, France*
+_Gorges of Fier, France_

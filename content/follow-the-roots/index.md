@@ -6,4 +6,4 @@ photo_alt: Snake-like sculpture made of wood sticks meandering between trees
 tags: Misc
 ---
 
-*Chaumont-sur-Loire, France*
+_Chaumont-sur-Loire, France_

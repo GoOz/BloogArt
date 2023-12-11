@@ -6,4 +6,4 @@ photo_alt: A wash house covered in a luxurious plant
 tags: Landscape
 ---
 
-*Autichamp, France*
+_Autichamp, France_

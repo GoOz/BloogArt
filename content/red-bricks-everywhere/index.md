@@ -6,4 +6,4 @@ photo_alt: A flowery small house made of red bricks
 tags: Street
 ---
 
-*Collonges-la-Rouge, France*
+_Collonges-la-Rouge, France_

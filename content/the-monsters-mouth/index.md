@@ -6,4 +6,4 @@ photo_alt: An old chimney in an abandoned house where nature took over
 tags: Landscape
 ---
 
-*Allan's castle, France*
+_Allan's castle, France_

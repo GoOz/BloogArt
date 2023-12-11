@@ -6,4 +6,4 @@ photo_alt: Sunset view from a cabin on a hill
 tags: Landscape
 ---
 
-*Cobonne, France*
+_Cobonne, France_

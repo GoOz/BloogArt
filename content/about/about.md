@@ -3,7 +3,7 @@ layout: layouts/page.njk
 eleventyNavigation:
   key: About me
   order: 1
-override:tags: ['pages']
+override:tags: ["pages"]
 title: About me
 ---
 

@@ -6,4 +6,4 @@ photo_alt: Rocky path through a small canyon
 tags: Landscape
 ---
 
-*Gueulards's canyon, France*
+_Gueulards's canyon, France_

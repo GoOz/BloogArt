@@ -6,4 +6,4 @@ photo_alt: Stones arranged as a mini house without roof
 tags: Landscape
 ---
 
-*Brocéliande, France*
+_Brocéliande, France_

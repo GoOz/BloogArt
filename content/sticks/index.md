@@ -6,4 +6,4 @@ photo_alt: Sticks placed like they're supporting a giant rock
 tags: Landscape
 ---
 
-*Gueulards's canyon, France*
+_Gueulards's canyon, France_

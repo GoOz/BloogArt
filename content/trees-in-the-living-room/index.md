@@ -6,4 +6,4 @@ photo_alt: The ruins of an old house
 tags: Landscape
 ---
 
-*Allan's castle, France*
+_Allan's castle, France_

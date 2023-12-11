@@ -6,4 +6,4 @@ photo_alt: Full of moss part of a forest
 tags: Landscape
 ---
 
-*Gueulards's canyon, France*
+_Gueulards's canyon, France_

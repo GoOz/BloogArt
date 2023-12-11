@@ -6,4 +6,4 @@ photo_alt: Contemporary stained glass
 tags: Misc
 ---
 
-*Postman Cheval's ideal palace, Hauterives, France*
+_Postman Cheval's ideal palace, Hauterives, France_

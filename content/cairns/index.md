@@ -6,4 +6,4 @@ photo_alt: A lot of little cairns under a way bigger rock
 tags: Landscape
 ---
 
-*Gueulards's canyon, France*
+_Gueulards's canyon, France_

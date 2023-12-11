@@ -6,4 +6,4 @@ photo_alt: Different layers of colors with the blue sky, the green mountains and
 tags: Landscape
 ---
 
-*Drôme, France*
+_Drôme, France_

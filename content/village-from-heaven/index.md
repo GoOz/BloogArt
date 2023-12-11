@@ -6,4 +6,4 @@ photo_alt: A village with a stream ending into a waterfall to the river
 tags: Landscape
 ---
 
-*Saint-Chély-du-Tarn, France*
+_Saint-Chély-du-Tarn, France_

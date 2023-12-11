@@ -6,4 +6,4 @@ photo_alt: An old lady in a yellow street watching at some Tattoo shop
 tags: Street
 ---
 
-*Nyons, France*
+_Nyons, France_

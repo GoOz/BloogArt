@@ -6,4 +6,4 @@ photo_alt: View of a cozy garden with a pond
 tags: Landscape
 ---
 
-*Islette's castle*
+_Islette's castle_

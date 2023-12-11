@@ -6,4 +6,4 @@ photo_alt: Framed castle within the window of an older castle
 tags: Street
 ---
 
-*Langeais' castle, France*
+_Langeais' castle, France_

@@ -6,4 +6,4 @@ photo_alt: Path in forest separated in two parts, one in the light of the sun, t
 tags: Landscape
 ---
 
-*Brocéliande, France*
+_Brocéliande, France_

@@ -6,4 +6,4 @@ photo_alt: A path through a canyon that keeps getting narrower every step of the
 tags: Landscape
 ---
 
-*Gueulards's canyon, France*
+_Gueulards's canyon, France_

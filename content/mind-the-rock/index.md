@@ -6,4 +6,4 @@ photo_alt: Passage blocked by a big rock
 tags: Landscape
 ---
 
-*Gueulards's canyon, France*
+_Gueulards's canyon, France_

@@ -6,4 +6,4 @@ photo_alt: Old stairs in a medieval village
 tags: Landscape
 ---
 
-*Mirabel-aux-baronnies, France*
+_Mirabel-aux-baronnies, France_

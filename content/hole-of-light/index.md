@@ -6,4 +6,4 @@ photo_alt: Light descending in the Gorges du Fier
 tags: Landscape
 ---
 
-*Gorges of Fier, France*
+_Gorges of Fier, France_

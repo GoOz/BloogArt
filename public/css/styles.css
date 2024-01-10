@@ -272,6 +272,14 @@ a.icon-only > * {
 	outline: 2px solid var(--action-color);
 }
 
+.centered {
+	text-align: center;
+}
+
+.left-aligned {
+	text-align: center;
+}
+
 /*=========================================
 *              Main grid                *
 =========================================*/

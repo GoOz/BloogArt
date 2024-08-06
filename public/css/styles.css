@@ -361,6 +361,7 @@ a.logo svg {
 .nav {
 	box-sizing: border-box;
 	margin-block-end: auto;
+	font-variant-caps: small-caps;
 }
 .nav > ul {
 	padding-block-start: 1rem;

@@ -341,6 +341,12 @@ a.logo svg {
 	fill: var(--foreground);
 }
 
+@media (orientation: portrait), (max-width: 40em) {
+	a.logo > :is(img, svg) {
+		max-height: 4rem;
+	}
+}
+
 .menu {
 	display: none;
 	border: 0;

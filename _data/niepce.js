@@ -30,5 +30,5 @@ module.exports = {
 			url: "https://blog.foojin.com",
 		},
 	],
-	series: ["Shuffle"],
+	series: ["Shuffle", "Boring lines"],
 }

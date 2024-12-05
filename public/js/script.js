@@ -6,12 +6,22 @@ let isNarrow = false
 
 // Elements
 const menuButton = document.querySelector(".menu")
+const slideshowButton = document.querySelector(".playpause")
 const nav = document.querySelector(".nav")
+const slides = document.querySelectorAll(".slideshow > li")
 
 // Events
 menuButton.addEventListener("click", () => {
 	nav.classList.toggle("open")
 })
+if (slideshowButton) {
+	slideshowButton.addEventListener("click", (e) => {
+		document
+			.querySelector(".slideshow > li:first-of-type")
+			.classList.toggle("paused")
+		slideshowButton.classList.toggle("active")
+	})
+}
 
 // Utils
 function checkMedia(size) {
@@ -63,3 +73,14 @@ if (masonryGrid) {
 	})
 	magicGrid.listen()
 }
+
+// --- Splash slideshow ---
+window.addEventListener("DOMContentLoaded", (e) => {
+	if (!slides) return
+
+	slides.forEach((current) => {
+		current.addEventListener("animationend", (e) => {
+			e.target.parentNode.appendChild(e.target)
+		})
+	})
+})

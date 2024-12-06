@@ -117,8 +117,8 @@
 				</div>
 				{% endif %}
 				{% if splashscreen and niepce.splash === 'true' %}
-				<button type="button" class="playpause" aria-label="Play/pause the slideshow">
-					{% svg "play-pause", "playpause-icon" %}
+				<button type="button" data-paused="false" class="playpause" aria-label="Pause">
+					⏸
 				</button>
 				{% endif %}
 				<ul class="network">

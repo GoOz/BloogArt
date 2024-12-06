@@ -426,6 +426,8 @@ a.icon-only > * {
 }
 .playpause {
 	display: none;
+	align-items: center;
+	justify-content: center;
 	position: absolute;
 	left: 1rem;
 	bottom: 1rem;
@@ -436,21 +438,16 @@ a.icon-only > * {
 	width: 3rem;
 	height: 3rem;
 	cursor: pointer;
-	transition: background-color var(--transition);
+	font-size: 2em;
+	line-height: 1;
+	transition:
+		background-color var(--transition),
+		color var(--transition);
 
-	&.active,
+	&[data-paused="true"],
 	&:where(:hover, :focus-visible) {
 		background-color: var(--foreground);
-
-		& svg {
-			stroke: var(--background);
-		}
-	}
-
-	& svg {
-		width: 100%;
-		height: 100%;
-		stroke: var(--foreground);
+		color: var(--background);
 	}
 }
 @media not (prefers-reduced-motion) {
@@ -463,7 +460,7 @@ a.icon-only > * {
 		animation-play-state: paused;
 	}
 	.playpause {
-		display: block;
+		display: flex;
 	}
 }
 

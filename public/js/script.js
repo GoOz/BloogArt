@@ -16,10 +16,16 @@ menuButton.addEventListener("click", () => {
 })
 if (slideshowButton) {
 	slideshowButton.addEventListener("click", (e) => {
+		const isPaused = slideshowButton.getAttribute("data-paused") === "true"
+		const newLabel = isPaused ? "Pause" : "Play"
+
 		document
 			.querySelector(".slideshow > li:first-of-type")
 			.classList.toggle("paused")
-		slideshowButton.classList.toggle("active")
+
+		slideshowButton.setAttribute("aria-label", newLabel)
+		slideshowButton.innerHTML = isPaused ? "⏸" : "▶"
+		slideshowButton.setAttribute("data-paused", !isPaused + "")
 	})
 }
 

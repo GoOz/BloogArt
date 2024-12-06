@@ -448,6 +448,22 @@ a.icon-only > * {
 	&:where(:hover, :focus-visible) {
 		background-color: var(--foreground);
 		color: var(--background);
+
+		& svg {
+			stroke: var(--background);
+		}
+	}
+
+	& svg {
+		stroke: var(--foreground);
+		width: 100%;
+		height: 100%;
+		display: block;
+	}
+
+	&:not([data-paused="true"]) .play-icon,
+	&[data-paused="true"] .pause-icon {
+		display: none;
 	}
 }
 @media not (prefers-reduced-motion) {

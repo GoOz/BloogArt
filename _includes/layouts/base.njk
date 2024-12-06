@@ -118,7 +118,8 @@
 				{% endif %}
 				{% if splashscreen and niepce.splash === 'true' %}
 				<button type="button" data-paused="false" class="playpause" aria-label="Pause">
-					⏸
+					{% svg "play", "play-icon" %}
+					{% svg "pause", "pause-icon" %}
 				</button>
 				{% endif %}
 				<ul class="network">

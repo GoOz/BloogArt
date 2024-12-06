@@ -24,7 +24,6 @@ if (slideshowButton) {
 			.classList.toggle("paused")
 
 		slideshowButton.setAttribute("aria-label", newLabel)
-		slideshowButton.innerHTML = isPaused ? "⏸" : "▶"
 		slideshowButton.setAttribute("data-paused", !isPaused + "")
 	})
 }

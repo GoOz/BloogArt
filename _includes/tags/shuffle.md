@@ -5,7 +5,7 @@ _In a nutshell, every week I rolled dices to get random values for ISO, shutter 
 Each picture is named _Shuffle_ **XX** - **X**/**X**/**X**.  
 The first digits is the week number and the others are **ISO**/**Shutter speed**/**Aperture**.
 
-Those last digits are refering to a value in this correlation table.
+Those last digits are referring to a value in this correlation table.
 
 | Number | ISO   | Shutter speed | Aperture |
 | ------ | ----- | ------------- | -------- |

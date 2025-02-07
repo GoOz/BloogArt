@@ -31,6 +31,6 @@ Until I found a viable answer to that question, I'm going to continue doing what
 
 **GoOz**
 
-_If you wish to contact me, please reach out on 🐘 [Mastodon](https://mamot.fr/@GoOz), 📱 [Instagram](https://www.instagram.com/gooz/) or by email with the address [hello@gooz.photography](mailto:hello@gooz.photography)._
+_If you wish to contact me, please reach out on 🐘 [Mastodon](https://mamot.fr/@GoOz), 📱 [Instagram](https://www.instagram.com/gooz/) or by email with the address ✉️ [hello@gooz.photography](mailto:hello@gooz.photography)._
 
 ---

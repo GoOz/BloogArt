@@ -7,7 +7,7 @@ override:tags: ["pages"]
 title: About me
 ---
 
-{% image "photo.jpg", "My portrait", "290px" %}
+<img eleventy:ignore alt="My portrait" src="photo.jpg">
 
 ---
 

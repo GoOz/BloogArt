@@ -9,7 +9,7 @@
 	<li class="post">
 		<a href="{{ post.url }}">
 			{% if post.data.photo %}
-			{% image "../content/"+post.url+"/"+post.data.photo , post.data.photo_alt, size, loading %}
+			<img src="/{{ post.url }}/{{ post.data.photo }}" alt="{{ post.data.photo_alt }}" sizes="(min-width: 50em) 50vw, 100vw">
 			{% endif %}
 			<h2 class="post-title">{{ post.data.title }}</h2>
 			</a>

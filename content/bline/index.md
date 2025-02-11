@@ -6,11 +6,11 @@ photo_alt: Portrait of a friend lied down on a bed
 tags: Portrait
 ---
 
-{% image "photo-2.jpg", "Portrait of a friend lied down on a bed", "(min-width: 50em) 90vw, 100vw" %}
+![photo-2.jpg](Portrait of a friend lied down on a bed)
 
-{% image "photo-3.jpg", "Portrait of a friend lied down on a bed", "(min-width: 50em) 90vw, 100vw" %}
+![photo-3.jpg](Portrait of a friend lied down on a bed)
 
-{% image "photo-4.jpg", "Portrait of a friend lied down on a bed", "(min-width: 50em) 90vw, 100vw" %}
+![photo-4.jpg](Portrait of a friend lied down on a bed)
 
 Bline was one of my dearest friend but I don't see her anymore, sadly.\
 Fun memories though.

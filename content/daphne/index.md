@@ -6,6 +6,6 @@ photo_alt: Close up of Daphné singing
 tags: Portrait
 ---
 
-{% image "photo-2.jpg", "Very close up of Daphné singing", "(min-width: 50em) 90vw, 100vw" %}
+![Very close up of Daphné singing](photo-2.jpg)
 
 _@ Fnac Indétendances 2007 festival_

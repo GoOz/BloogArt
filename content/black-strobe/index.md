@@ -5,7 +5,6 @@ photo: photo.jpg
 photo_alt: Black Strobe's bassist on stage
 tags: Portrait
 ---
-
-{% image "photo-2.jpg", "Close up of Black Strobe singier playing the guitar on stage", "(min-width: 50em) 90vw, 100vw" %}
+![Close up of Black Strobe singier playing the guitar on stage](photo-2.jpg)
 
 _@ Fnac Indétendances 2007 festival_

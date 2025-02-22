@@ -4,6 +4,7 @@ date: 2024-03-01
 photo: photo.jpg
 photo_alt: Self portrait with a yelling blurry face
 tags: [Shuffle, Portrait]
+featured: true
 ---
 
 Music suggestion while looking at this picture :

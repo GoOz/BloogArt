@@ -9,6 +9,7 @@ import {
 import pluginRss from "@11ty/eleventy-plugin-rss"
 import pluginNavigation from "@11ty/eleventy-navigation"
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img"
+eleventyImageTransformPlugin.concurrency = 4
 
 import pluginFilters from "./_config/filters.js"
 
@@ -17,12 +18,6 @@ import ExifReader from "exifreader"
 import svgContents from "eleventy-plugin-svg-contents"
 
 export default async function (eleventyConfig) {
-	// Drafts, see also _data/eleventyDataSchema.js
-	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
-		if (data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
-			return false
-		}
-	})
 	// PassThroughCopy
 	eleventyConfig.addPassthroughCopy({
 		"./public/": "/",

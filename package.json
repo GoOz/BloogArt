@@ -1,5 +1,5 @@
 {
-	"name": "BloOgArt",
+	"name": "bloogart",
 	"version": "2.0.0",
 	"description": "GoOz's personal portfolio",
 	"type": "module",
@@ -31,17 +31,15 @@
 	},
 	"homepage": "https://github.com/GoOz/BloogArt#readme",
 	"devDependencies": {
-		"@11ty/eleventy": "^3.0.0",
-		"@11ty/eleventy-img": "^6.0.1",
-		"@11ty/eleventy-navigation": "^0.3.5",
-		"@11ty/eleventy-plugin-rss": "^2.0.3",
+		"@11ty/eleventy": "^3.1.2",
+		"@11ty/eleventy-img": "^6.0.4",
+		"@11ty/eleventy-navigation": "^1.0.4",
+		"@11ty/eleventy-plugin-rss": "^2.0.4",
 		"eleventy-plugin-svg-contents": "^0.7.0",
-		"eleventy-plugin-svg-sprite": "^2.4.2",
-		"exifreader": "^4.26.1",
-		"luxon": "^3.5.0",
-		"prettier": "^3.5.0",
-		"zod": "^3.23.8",
-		"zod-validation-error": "^3.3.1"
+		"eleventy-plugin-svg-sprite": "^2.4.5",
+		"exifreader": "^4.32.0",
+		"luxon": "^3.7.2",
+		"prettier": "^3.6.2"
 	},
 	"dependencies": {
 		"magic-grid": "^3.4.7"

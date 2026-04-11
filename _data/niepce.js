@@ -1,19 +1,60 @@
-// Niepce's config file
+// Niepce's configuration
 // Read the wiki https://github.com/GoOz/Niepce/Wiki for more informations
-module.exports = {
-	splash: "true", // Enable splash screen instead of homepage : "true" | "false"
-	splash_link: "Browse", // Label of the link to enter your website
-	splash_line: "Take a look at my work…", // Short welcome sentence. Leave empty if you don't want it to appear.
-	grid: "masonry", // Grid of choice for the homepage: "justified" | "instagrid" | "masonry" | "monocolumn"
-	grid_tags: "justified", // If specified, override the grid option for the tags pages, same options as `grid`
-	theme: "auto", // Theme of choice: "light" | "dark" | "auto"
-	animations: "true", // Activate animation on images
-	logo: "/public/img/logo-inline.svg", // Path to your logo, if there is none, it will be replace by the title of the site. If it's a SVG and you want it inlined, add a suffix "-inline" to its filename (e.g. logo-inline.svg)
-	banner: "/img/banner.jpg", // Path to the banner image for OpenGraph sharing card (relative to site's url)
-	exif: true, // Will show exif metadata if they are available: boolean
-	tags: true, // Will show tags on posts: boolean
+
+export default {
+	// WEBSITE INFORMATIONS
+	title: "GoOz Photography",
+	url: "https://gooz.photography",
+	language: "en",
+	locale: "en_US",
+	description: "Miscellaneous photography by GoOz",
+	author: {
+		name: "GoOz",
+		email: "gooz@foojin.com",
+		url: "https://www.foojin.com",
+	},
+
+	// SPLASH SCREEN
+	splash: {
+		enabled: true,
+		link: "Browse",
+		line: "Take a look at my work…",
+	},
+
+	// THEME
+	theme: "niepce",
+	theme_variant: "auto", // "light" | "dark" | "auto"
+	grid: "masonry", // "justified" | "instagrid" | "masonry" | "monocolumn"
+
+	// THEME OPTIONS
+	ignored_pages: {
+		archives: false,
+		contact: false,
+		blogposts: true,
+	},
+	home: {
+		last_items: {
+			enabled: true,
+			nb_items: 8,
+		},
+		categories: true,
+		series: true,
+		blogposts: {
+			enabled: false,
+			nb_items: 3,
+		},
+	},
+	animations: true,
+	logo: "/public/img/logo-inline.svg",
+	exif: true,
+	shop_link: "Buy a print",
+	form_url:
+		"https://api.postcatch.io/submit/d8389c77-e28e-4878-b318-6616d4ea199a",
+	form_sent_page: "/thank-you/",
+
+	// SOCIAL NETWORKS
+	social_banner: "/img/banner.jpg",
 	socials: {
-		// Fill those with your social profile urls if you have accounts there
 		"500px": "",
 		behance: "",
 		deviantart: "",
@@ -24,13 +65,4 @@ module.exports = {
 		pixelfed: "https://pixelfed.social/i/web/profile/422334934806983747",
 		tumblr: "",
 	},
-	footer: "© GoOz",
-	links: [
-		// Add external links in your navigation
-		{
-			label: "Blog",
-			url: "https://blog.foojin.com",
-		},
-	],
-	series: ["Shuffle", "Boring lines"],
 }

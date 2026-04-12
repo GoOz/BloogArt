@@ -2,7 +2,7 @@
 layout: layouts/archives.njk
 eleventyNavigation:
   key: Recent
-  order: 3
-title: All my pictures so far
+  order: 2
+title: My pictures so far…
 permalink: /recent/
 ---

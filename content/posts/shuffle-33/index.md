@@ -4,6 +4,6 @@ date: 2024-08-16
 photo: photo.jpg
 photo_alt: Lavender in the dark night
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-33/
 ---

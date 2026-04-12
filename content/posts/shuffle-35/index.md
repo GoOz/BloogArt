@@ -4,6 +4,6 @@ date: 2024-08-30
 photo: photo.jpg
 photo_alt: Abstract picture of a lighbulb behind a bottle of water
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-35/
 ---

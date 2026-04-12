@@ -3,6 +3,7 @@ layout: layouts/series.njk
 eleventyNavigation:
   key: Shuffle
   parent: Series
+  order: 0
 title: Shuffle series
 permalink: /series/shuffle/
 seriesName: Shuffle

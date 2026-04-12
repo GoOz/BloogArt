@@ -4,6 +4,6 @@ date: 2024-11-20
 photo: photo.jpg
 photo_alt: Wall tiles of a bathroom behind a wet glass
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-47/
 ---

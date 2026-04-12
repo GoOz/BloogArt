@@ -3,6 +3,7 @@ layout: layouts/series.njk
 eleventyNavigation:
   key: Boring lines
   parent: Series
+  order: 1
 title: Boring lines series
 permalink: /series/boring-lines/
 seriesName: Boring lines

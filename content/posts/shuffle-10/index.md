@@ -4,6 +4,6 @@ date: 2024-03-08
 photo: photo.jpg
 photo_alt: Blurry corner of a enlighten window in the night
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-10/
 ---

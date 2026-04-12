@@ -4,6 +4,6 @@ date: 2024-12-11
 photo: photo.jpg
 photo_alt: Christmas tree lights in the dark
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-50/
 ---

@@ -4,6 +4,6 @@ date: 2024-10-16
 photo: photo.jpg
 photo_alt: Picture of a door with translucid parts
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-42/
 ---

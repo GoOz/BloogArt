@@ -3,6 +3,7 @@ layout: layouts/category.njk
 eleventyNavigation:
   key: Portrait
   parent: Categories
+  order: 1
 title: Posts tagged “Portrait”
 permalink: /category/portrait/
 category: Portrait
@@ -12,3 +13,4 @@ cover: a-candid-smile
 
 _Pictures of friends, lovers, coworkers or strangers. Just people._
 
+---

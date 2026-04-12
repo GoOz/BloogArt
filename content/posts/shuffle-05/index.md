@@ -4,6 +4,6 @@ date: 2024-02-02
 photo: photo.jpg
 photo_alt: Round lampshade with the light on on a white ceiling
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-05/
 ---

@@ -4,6 +4,6 @@ date: 2024-12-27
 photo: photo.jpg
 photo_alt: View on houses on a misty morning
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-52/
 ---

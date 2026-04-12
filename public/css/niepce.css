@@ -1125,10 +1125,8 @@ a.logo {
 *               Contact form              *
 =========================================*/
 .categories {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: stretch;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(var(--size-14), 1fr));
   gap: var(--size-7);
   list-style: none;
   margin: var(--size-7) auto;
@@ -1137,10 +1135,7 @@ a.logo {
 .category {
   display: block;
   position: relative;
-  flex: 1 1 var(--size-10);
   aspect-ratio: 16 / 9;
-  max-inline-size: 50%;
-  min-inline-size: var(--size-13);
 
   & a[href] {
     color: inherit;

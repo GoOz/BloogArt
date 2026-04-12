@@ -4,5 +4,5 @@ date: 2025-08-29
 photo: photo.jpg
 photo_alt: Grid of a picture viewed from the site
 series: Boring lines
-tags: [Misc]
+tags: Minimal
 ---

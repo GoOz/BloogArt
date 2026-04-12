@@ -8,3 +8,5 @@ permalink: /blog/
 ---
 
 *This is where I rant…*
+
+---

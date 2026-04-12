@@ -4,6 +4,6 @@ date: 2024-05-23
 photo: photo.jpg
 photo_alt: Black and white picture of window blinds from inside a room
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-21/
 ---

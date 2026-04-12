@@ -4,6 +4,6 @@ date: 2024-02-22
 photo: photo.jpg
 photo_alt: Frontal lights in the dark behind a fence
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-08/
 ---

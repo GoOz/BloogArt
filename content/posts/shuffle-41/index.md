@@ -4,6 +4,6 @@ date: 2024-10-09
 photo: photo.jpg
 photo_alt: Lightbulb behind a filter
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-41/
 ---

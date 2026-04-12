@@ -4,6 +4,6 @@ date: 2024-12-06
 photo: photo.jpg
 photo_alt: Picture of the tip of some leafless trees and a blue sky
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-49/
 ---

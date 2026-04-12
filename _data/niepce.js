@@ -30,7 +30,7 @@ export default {
 	ignored_pages: {
 		archives: false,
 		contact: false,
-		blogposts: true,
+		blogposts: false,
 	},
 	home: {
 		last_items: {
@@ -40,7 +40,7 @@ export default {
 		categories: true,
 		series: true,
 		blogposts: {
-			enabled: false,
+			enabled: true,
 			nb_items: 3,
 		},
 	},

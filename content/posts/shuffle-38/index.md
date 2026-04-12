@@ -4,6 +4,6 @@ date: 2024-09-20
 photo: photo.jpg
 photo_alt: Setting sun sky framed by trees
 series: Shuffle
-tags: [Misc]
+tags: Minimal
 permalink: /shuffle-38/
 ---

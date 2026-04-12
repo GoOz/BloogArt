@@ -2,14 +2,16 @@
 layout: layouts/contact.njk
 eleventyNavigation:
   key: Contact
-  order: 7
+  order: 6
 title: Contact me
 permalink: /contact/
 ---
 
-You can contact me for any reason like:
+Feel free to contact me for any reason like:
 - Request for an exhibition
+- Request for publishing rights
 - Purchase of a print
+- Talk about photography
 - Say hello
 
 See you soon! 👋

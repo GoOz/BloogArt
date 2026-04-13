@@ -21,7 +21,7 @@ menuButton.addEventListener("click", () => {
 })
 
 if (contactForm && submitButton) {
-  contactForm.addEventListener("submit", (e) => {
+  contactForm.addEventListener("submit", () => {
     submitButton.setAttribute("aria-busy", "true")
     submitButton.setAttribute("disabled", "")
   })

@@ -4,8 +4,8 @@ date: 2024-03-25
 photo: photo.jpg
 photo_alt: A dog and cat sleeping on a couch in a dimmed light
 series: Shuffle
-tags: [Portrait]
-permalink: /shuflle-13/
+tags: Portrait
+permalink: /shuffle-13/
 ---
 
 That's what sunday evenings are made for.

@@ -1,51 +1,26 @@
 ---
 layout: layouts/page.njk
-title: Mentions légales - Legal notice
+title: Legal notice
 permalink: /legal-notice/
 ---
 
-*English version below.*
-
-## Version française 
-
-### Ce site est édité par
-
-**Jean-Christophe PAGNON EI**  
-*Domicilié au :* 26 rue de l'Yveline, 78640 St Germain de la grange  
-*E-mail :* hello@gooz.photography  
-*Numéro SIREN :* 108585605  
-*Numéro de TVA :* TVA non applicable, art. 293 B du CGI  
-*Directeur de publication :* JC PAGNON
+<div class="centered"><small>💡&nbsp;<em><a href="/mentions-legales/">Voir les mentions légales en français 🇫🇷</a></em></small></div>
 
 ---
 
-### Ce site est hébergé par
-
-**SARL alwaysdata**  
-*Domicilié au :* 91 Rue du Faubourg Saint-Honoré, 75008 Paris  
-*Téléphone :* +33 1 84 16 23 49
-
----
-
-### Données personnelles (RGPD)
-Qu'elle soit personnelle ou non, quelqu'elle soit sa nature et de quelque manière que ce soit, ce site ne récupère aucune donnée. De fait, il respecte donc les réglementations européennes en vigueur.
-
----
-
-## English version 
-
-### This website is published by
+### Publication
 
 **Jean-Christophe PAGNON EI**  
 *Domiciled in :* 26 rue de l'Yveline, 78640 St Germain de la grange, France  
 *Email :* hello@gooz.photography  
+*Telephone :* +33 7 59 54 07 42  
 *SIREN number :* 108585605  
 *VAT number:* VAT not applicable  
 *Publication director :* JC PAGNON
 
 ---
 
-### This website is hosted by
+### Hosting
 
 **SARL alwaysdata**  
 *Domiciled in :* 91 Rue du Faubourg Saint-Honoré, 75008 Paris, France  
@@ -53,5 +28,13 @@ Qu'elle soit personnelle ou non, quelqu'elle soit sa nature et de quelque maniè
 
 ---
 
+### Intellectual property
+
+The **entire content** of this site (texts, images, logos, etc.) is protected by copyright and intellectual property law. Any reproduction, representation, modification, publication or adaptation of all or part of the elements of the site is prohibited without prior written authorization.
+
+---
+
 ### Personal data (GDPR)
-Whether personal or not, whatever its nature and in whatever manner, this site does not collect any data. It therefore complies with current European regulations.
+This site does not use cookies and therefore does not collect any personal data with the exception of your name and email **if** you use the contact form. This information collected by legitimate interest is only used for the purpose of responding to you and is neither stored nor sold to any third parties. However, they pass through a third party [PostCatch.io](https://postcatch.io/), a contact service with anti-spam, based in North America.
+
+---

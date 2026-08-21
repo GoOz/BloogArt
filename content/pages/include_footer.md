@@ -1,1 +1,2 @@
-© GoOz - <a href="/legal-notice/">Legal notice</a>
+© All rights reserved  
+<small>[Legal notice](/legal-notice/) - [T&C](/terms-and-conditions/)</small>

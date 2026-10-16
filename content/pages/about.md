@@ -36,6 +36,9 @@ I am moving towards abstraction photography, where objects, everyday spaces and 
 ## Exhibitions
 
 ### 2026
+**Art sur Mauldre (Le Tremblay sur Mauldre, France)**  
+_Various art and artists exhibition_
+
 **Neauphle Photo (Neauple-le-Château, France)**  
 _Photography only exhibition_
 
